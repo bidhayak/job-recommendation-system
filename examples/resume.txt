@@ -1,0 +1,7 @@
+Fictional demonstration resume
+
+Data analyst with Python, SQL, pandas, NumPy, and scikit-learn experience.
+Built repeatable data cleaning and analysis workflows, created data visualization
+reports, and explored machine learning and natural language processing.
+Interested in explainable recommendation systems using TF-IDF and cosine similarity.
+Comfortable with Linux, Git, clear documentation, and communicating findings.
